@@ -6,5 +6,7 @@
 
         public object? Data { get; set; }
 
+        public int Code { get; set; }
+
     }
 }
